@@ -4,9 +4,7 @@ format:
   dashboard:
     nav-buttons: [twitter, github, facebook]
     logo: https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg
-    include-in-header:
-      text: |
-        <link rel="icon" type="image/svg+xml" href="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg">
+    favicon: logo_course.jpeg
 theme: custom.scss
 ---
 
